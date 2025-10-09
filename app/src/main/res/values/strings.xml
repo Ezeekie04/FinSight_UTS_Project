@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FinSight</string>
+    <string name="finsight">FinSight</string>
+    <string name="market_overview">Market Overview</string>
+    <string name="gold">Gold</string>
+    <string name="_2325_75">$2325.75</string>
+    <string name="_0_34">+0.34%</string>
+    <string name="gold_xau">Gold (XAU)</string>
+    <string name="predicted_up_0_7_confidence_68_regime_crisis">Predicted: UP (+0.7%) Confidence: 68% Regime: CRISIS</string>
+    <string name="add_note">Add Note</string>
+    <string name="add_notes">Add Note</string>
+    <string name="my_note">My Note</string>
+    <string name="some_thoughts_about_today_s_prediction">Some thoughts about today\'s prediction...</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="oct_09_2025_11_23">Oct 09, 2025 - 11:23</string>
+    <string name="my_notes">My Notes</string>
+    <string name="welcome">WELCOME</string>
+    <string name="enable_dark_mode">Enable Dark Mode</string>
+    <string name="finsight_v1_0_ndeveloped_for_if570l_2025">FinSight v1.0\nDeveloped for IF570L - 2025</string>
+    <string name="prediction_info">Prediction Info</string>
+    <string name="my_notess">My Notes</string>
+    <string name="search_notes">Search notes...</string>
+    <string name="asset_title">Asset Title</string>
+    <string name="gold_xau_usd">Gold (XAU/USD)</string>
+    <string name="predicted_0_7_bullish">Predicted +0.7% (Bullish)</string>
+    <string name="gold_xau_us">Gold (XAU/USD)</string>
+
+</resources>
