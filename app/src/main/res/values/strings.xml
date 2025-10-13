@@ -10,7 +10,7 @@
     <string name="add_note">Add Note</string>
     <string name="add_notes">Add Note</string>
     <string name="my_note">My Note</string>
-    <string name="some_thoughts_about_today_s_prediction">Some thoughts about today\'s prediction...</string>
+    <string name="some_thoughts_about_today_s_prediction">Some thoughts about today\'s prediction</string>
     <string name="edit">Edit</string>
     <string name="delete">Delete</string>
     <string name="oct_09_2025_11_23">Oct 09, 2025 - 11:23</string>
@@ -25,5 +25,6 @@
     <string name="gold_xau_usd">Gold (XAU/USD)</string>
     <string name="predicted_0_7_bullish">Predicted +0.7% (Bullish)</string>
     <string name="gold_xau_us">Gold (XAU/USD)</string>
+    <string name="tap_an_asset_below_to_view_chart">Tap an asset below to view chart 📈</string>
 
 </resources>

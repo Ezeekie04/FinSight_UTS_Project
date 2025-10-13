@@ -22,7 +22,7 @@
     <!-- Subtext info -->
     <TextView
         android:id="@+id/dashboardHint"
-        android:text="Tap an asset below to view chart 📈"
+        android:text="@string/tap_an_asset_below_to_view_chart"
         android:textColor="@color/light_gray"
         android:textSize="14sp"
         app:layout_constraintTop_toBottomOf="@id/dashboardTitle"
